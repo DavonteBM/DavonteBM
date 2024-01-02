@@ -6,7 +6,7 @@ Welcome To My Github Page ...
 
 _My name is **Davonte Bertrand-Murrell**, a **software developer** who is passionate about building secure & scalable software._
 
-![My Skills](https://skillicons.dev/icons?i=python,cs,js,django,dotnet,nodejs,express,postgres,mongodb,bootstrap,html,css,react,)
+![My Skills](https://skillicons.dev/icons?i=python,cs,js,java,django,dotnet,nodejs,express,postgres,mongodb,bootstrap,html,css,react,)
 
 ***
 
